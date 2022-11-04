@@ -9,7 +9,7 @@ My task was to rewrite this template for Bootstrap 5
 Difference Between Bootstrap 3 and Bootstrap 5
 |property|Bootstrap 3|Bootstrap 5|
 |--------|-----------|-----------|
-||||
+|`jumbotron`|exits |not exist `mt-4 p-5 bg-secondary`|
 
 # Watch the results!
 
