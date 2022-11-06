@@ -22,6 +22,7 @@ Difference Between Bootstrap 3 and Bootstrap 5
 ||`navbar-right`|`justify-content-end`|
 || `icon-bar`|`navbar-toggler-icon`|
 ||`li, a` without class|`nav-item, nav-link`|
+|`jQuery `|exist|not exist `Vanilla JS`|
 
 # Watch the results!
 
