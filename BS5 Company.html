@@ -50,6 +50,36 @@
         height: 100%;
         margin-bottom: 10px;
       }
+
+      /*
+      .carousel-control-prev,
+      .carousel-control-next,
+      .carousel-control-prev-icon,
+      .carousel-control-next-icon {
+        color: #f4511e;
+      }
+
+      .carousel-indicators > button {
+        border: 4px solid red;
+        border-color: #f4511e;
+      }
+
+      .carousel-indicators > button {
+        background-color: #f4511e;
+      }
+      */
+
+      .carousel-caption h4 {
+        font-size: 19px;
+        line-height: 1.375em;
+        font-weight: 400;
+        font-style: italic;
+        margin: 70px 0;
+      }
+
+      .carousel-item span {
+        font-style: normal;
+      }
     </style>
   </head>
   <body>
@@ -180,13 +210,22 @@
       <!-- The slideshow/carousel -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <h4>"This company is the best. I am so happy with the result!"<br /><span style="font-style: normal">Michael Roe, Vice President, Comment Box</span></h4>
+          <img src="img/map.jpg" alt="Los Angeles" class="d-block w-100" />
+          <div class="carousel-caption">
+            <h4>"This company is the best. I am so happy with the result!"<br /><span>Michael Roe, Vice President, Comment Box</span></h4>
+          </div>
         </div>
         <div class="carousel-item">
-          <h4>"One word... WOW!!"<br /><span style="font-style: normal">John Doe, Salesman, Rep Inc</span></h4>
+          <img src="img/map.jpg" alt="Chicago" class="d-block w-100" />
+          <div class="carousel-caption">
+            <h4>"One word... WOW!!"<br /><span>John Doe, Salesman, Rep Inc</span></h4>
+          </div>
         </div>
         <div class="carousel-item">
-          <h4>"Could I... BE any more happy with this company?"<br /><span style="font-style: normal">Chandler Bing, Actor, FriendsAlot</span></h4>
+          <img src="img/map.jpg" alt="New York" class="d-block w-100" />
+          <div class="carousel-caption">
+            <h4>"Could I... BE any more happy with this company?"<br /><span>Chandler Bing, Actor, FriendsAlot</span></h4>
+          </div>
         </div>
       </div>
 
