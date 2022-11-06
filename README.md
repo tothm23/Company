@@ -17,6 +17,11 @@ Difference Between Bootstrap 3 and Bootstrap 5
 ||`glyphicon glyphicon-chevron-left`|`carousel-control-prev-icon`|
 ||`glyphicon glyphicon-chevron-right`|`carousel-control-next-icon`|
 |`btn-default`|exist|not exist|
+|`navbar`|`navbar-default`|`navbar-expand-md`|
+||`navbar-fixed-top`|`fixed-top`|
+||`navbar-right`|`justify-content-end`|
+|| `icon-bar`|`navbar-toggler-icon`|
+||`li, a` without class|`nav-item, nav-link`|
 
 # Watch the results!
 
