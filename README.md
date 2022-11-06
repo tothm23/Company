@@ -11,10 +11,12 @@ Difference Between Bootstrap 3 and Bootstrap 5
 |--------|-----------|-----------|
 |`jumbotron`|exits |not exist [Bootstrap 5 Jumbotron alternative](https://www.w3schools.com/bootstrap5/bootstrap_jumbotron.php)|
 |`glyphicon`|exist|not exist [Fontawesome](https://fontawesome.com/)|
+|`grid system`|`col-sm` ≥768px |`col-md` ≥768px|
 |`thumbnail`|add `thumbnail` to a div|add `thumbnail` to an images, no required div|
 |`carousel`|`item`|`carousel-item`|
 ||`glyphicon glyphicon-chevron-left`|`carousel-control-prev-icon`|
 ||`glyphicon glyphicon-chevron-right`|`carousel-control-next-icon`|
+|`btn-default`|exist|not exist|
 
 # Watch the results!
 
